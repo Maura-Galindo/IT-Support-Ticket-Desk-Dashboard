@@ -2,10 +2,8 @@
 
 Este proyecto de análisis y visualización simula la gestión de más de **1,000 tickets de soporte TI**, utilizando información similar a la de Jira Service Management. A través de dashboards interactivos, puedes explorar métricas clave sobre problemas, equipos, prioridades, tiempos de resolución y distribución geográfica.
 
-![Vista General del Dashboard](dashboard_general.png)
-![Tipos de Tickets](dashboard_tipos.png)
-![Análisis de Prioridades y Resolución](dashboard_prioridades.png)
-![Distribución Geográfica de Tickets](dashboard_geografico.png)
+![Vista General del Dashboard](https://github.com/Maura-Galindo/IT-Support-Ticket-Desk-Dashboard/blob/dd4f142f7be5998b5420bef544474a07c15c97b9/Img_2..png)
+![Tipos de Tickets]([dashboard_tipos.png](https://github.com/Maura-Galindo/IT-Support-Ticket-Desk-Dashboard/blob/dd4f142f7be5998b5420bef544474a07c15c97b9/img_general.png))
 
 ---
 
